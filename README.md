@@ -1,1 +1,1 @@
-# nodejs-server using http only
+# nodejs-server using http library only. Keep track requests with EvenEmitter from events library
